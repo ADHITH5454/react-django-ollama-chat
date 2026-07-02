@@ -1,0 +1,15 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+db.sqlite3
+
+# Node
+front-end/node_modules/
+front-end/dist/
+
+# VS Code
+.vscode/
+
+# Environment
+.env
